@@ -1,4 +1,4 @@
 *.beam
 *.dump
 deps
-*.log
+priv/log
