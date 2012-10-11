@@ -1,0 +1,1 @@
+bees app:deploy -a playground/webmachine -t webmachine -RPLUGIN.SRC.webmachine=https://s3.amazonaws.com/cloudbees-downloads/clickstack/webmachine-clickstack.zip -P MESSAGE=hola ../webmachine_demo_app.zip
